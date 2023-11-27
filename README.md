@@ -1,4 +1,4 @@
-# competetive-analysis-casestudies
+# competitive_strategy_case_study_analysis
 This repository contains a collection of competitive analysis case studies and it involved the following
 1. STEEP factors (Societal,Technological,Economic,Environmental,Political) affecting the comapny and the industy
 2. Choose 2 uncertainities of the five factors
