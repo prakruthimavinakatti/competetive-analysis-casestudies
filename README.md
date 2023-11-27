@@ -7,4 +7,4 @@ This repository contains a collection of competitive analysis case studies and i
 5.Competitive landscape (Incubents,Insurgents,Adjacents)
 6.Strategy Palette (gives details about how the company's transition)
 7.Frameworks (Used mainly Jump curves, # Horizons, Co-optition model and Business model canvas) to provide startegies based on the company's transition
-8. Provided strategies for a period of 7 years ahead
+8. Provided strategies for a period of 7 years ahead.
